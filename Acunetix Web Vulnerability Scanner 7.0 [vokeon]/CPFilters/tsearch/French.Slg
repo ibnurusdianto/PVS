@@ -1,0 +1,12 @@
+[SPEECH]
+SPEECH[0]=selectionné
+SPEECH[1]=Adresse trouvé
+SPEECH[2]=Parole activé
+SPEECH[3]=Liste vide
+SPEECH[4]=Adresse ajouté a la liste
+SPEECH[5]=Liste bloqué
+SPEECH[6]=Liste débloqué
+SPEECH[7]=défini dans la liste
+SPEECH[8]=Ajouté a la liste
+SPEECH[9]=liste multiplié par
+SPEECH[10]=soustrait de la liste

@@ -1,0 +1,16 @@
+1. Make a new Folder and call it anything you will like. In this case I will call it Havij 1.152. Extract all contents of Havij 1.152 Pro.rar into the folder you have just made and you should have this.
+Spoiler (Click to View)
+
+2. Take the OCX files and extract them into the folder you have made and throw in the havijkey.lic into the folder.
+Spoiler (Click to View)
+
+3. Now that you have everything in the folder, click Register.
+(Don't worry about the boxes popping up its supposed to do that!)
+Spoiler (Click to View)
+4. Open the program and it should work! Yeye Pirate
+Spoiler (Click to View)
+
+Antivirus scan:
+OCX Files: https://www.virustotal.com/file/1f98b8d1.../analysis/
+
+Havij pro 1.152: https://www.virustotal.com/file/a3ce7e98...346376919/ (may have false Positives)
